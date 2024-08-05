@@ -1,7 +1,3 @@
-Here's a revised README with a more detailed description for each section:
-
----
-
 # SuperStore
 
 ## Overview
